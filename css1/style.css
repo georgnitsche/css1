@@ -1,0 +1,20 @@
+div 
+{
+  border: 15px solid green;
+  margin: 20px;
+}
+
+#third >p { 
+	color:red;
+ 	display: none;
+} 
+
+h1
+{ 
+	display:none;
+ }
+
+ #second *
+ {
+ 	display: none;
+ }
